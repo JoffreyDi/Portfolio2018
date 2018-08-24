@@ -1,0 +1,132 @@
+button {
+    -webkit-appearance: none;
+    font-size: 1.2rem;
+    font-weight: $weight-semibold;
+    transition: .3s ease-in;
+    width: auto;
+    padding: 5px 15px 5px 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: bloc
+}
+
+.button-action {
+    @extend button;
+    background: linear-gradient($yellow-submarine, $yellow-hover);
+    border: none;
+    color: $chocolate;
+    &:hover {
+        background: $yellow-hover;
+        transition: .3s ease-in-out;
+    }
+    &:disabled {
+        background: $grey;
+        color: $grey;
+        cursor: not-allowed;
+    }
+}
+
+.button-classic {
+    @extend button;
+    background: linear-gradient($white, $white);
+    border: 1px solid $pearl-grey;
+    color: $grey;
+    &:hover {
+        border: 1px solid $grey;
+        color: $chocolate;
+        transition: .3s ease-in-out;
+        color: $slate;
+    }
+    &:disabled {
+        background: #ccc;
+        color: $grey;
+        cursor: not-allowed;
+    }
+}
+
+.button-special {
+    @extend button;
+    background: linear-gradient($yellow-submarine, $yellow-hover);
+    border: none;
+    color: $chocolate;
+    font-size: 1.4rem !important;
+    height: 35px;
+    width: calc(100% - 40px);
+    margin: 0 20px 20px 20px;
+    &:hover {
+        background: $yellow-hover;
+        transition: .3s ease-in-out;
+    }
+    &:disabled {
+        background: #ccc;
+        color: $grey;
+        cursor: not-allowed;
+    }
+}
+
+.button-special.secondary {
+    @extend .button-special;
+    background: $white;;
+    color: $grey;
+}
+
+.button-new-message {
+    @extend .button-action;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    &:hover {
+        background: $yellow-hover;
+        transition: .3s ease-in-out;
+    }
+}
+
+
+
+// Redesign UPLOAD buttons
+.input-file-container {
+    position: relative;
+}
+
+.js .input-file-trigger {
+  @extend button;
+  background: linear-gradient($yellow-submarine, $yellow-hover);
+  border: none;
+  color: $chocolate;
+  padding: 5px 15px;
+}
+
+.js .input-file {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.js .input-file:hover+.input-file-trigger,
+.js .input-file:focus+.input-file-trigger,
+.js .input-file-trigger:hover,
+.js .input-file-trigger:focus {
+  background: $yellow-hover;
+  transition: .3s ease-in-out;
+}
+
+.file-return {
+    margin: 0;
+}
+
+.file-return:not(:empty) {
+    margin: 1em 0;
+}
+
+.js .file-return {
+    font-size: 1.2rem;
+    display: none;
+}
+
+.js .file-return:not(:empty):before {
+    content: "Selected file: ";
+    font-style: normal;
+    font-weight: normal;
+}

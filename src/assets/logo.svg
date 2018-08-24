@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157.226 150.344">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(0.027 0.03)">
+    <line id="Line_15" data-name="Line 15" class="cls-1" x1="29.072" y2="64.703" transform="translate(66.16 0.2)"/>
+    <line id="Line_16" data-name="Line 16" class="cls-1" y1="37.998" x2="90.94" transform="translate(66.16 26.905)"/>
+    <line id="Line_17" data-name="Line 17" class="cls-1" x1="61.869" y1="26.705" transform="translate(95.231 0.2)"/>
+    <line id="Line_18" data-name="Line 18" class="cls-1" x2="43.907" y2="85.297" transform="translate(66.16 64.903)"/>
+    <line id="Line_19" data-name="Line 19" class="cls-1" y1="59.322" x2="28.872" transform="translate(110.067 90.878)"/>
+    <line id="Line_20" data-name="Line 20" class="cls-1" x1="23.151" y1="46.767" transform="translate(115.788 44.111)"/>
+    <line id="Line_21" data-name="Line 21" class="cls-1" x2="25.213" y2="46.501" transform="translate(121.309 41.852)"/>
+    <line id="Line_22" data-name="Line 22" class="cls-1" x1="7.584" y2="45.306" transform="translate(138.939 88.353)"/>
+    <line id="Line_23" data-name="Line 23" class="cls-1" x1="13.704" y1="14.615" transform="translate(125.234 119.044)"/>
+    <line id="Line_24" data-name="Line 24" class="cls-1" y1="3.72" x2="6.054" transform="translate(136.677 82.574)"/>
+    <line id="Line_25" data-name="Line 25" class="cls-1" x1="70.717" y2="41.519" transform="translate(0.1 74.004)"/>
+    <line id="Line_26" data-name="Line 26" class="cls-1" x2="66.06" y2="21.922" transform="translate(0.1 115.523)"/>
+    <line id="Line_27" data-name="Line 27" class="cls-1" y1="19.132" x2="26.943" transform="translate(66.16 118.313)"/>
+  </g>
+</svg>

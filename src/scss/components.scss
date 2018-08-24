@@ -1,0 +1,20 @@
+.slideshow-container {
+    /* Next & previous buttons */
+    .prev, .next {
+      background-color:$yellow-submarine;
+      width: 60px;
+      height: 60px;
+      top: 45%;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      .material-icons {
+          margin: auto;
+          font-size: 3.2rem;
+          color: $chocolate;
+      }
+    }
+  
+  }
+
+
