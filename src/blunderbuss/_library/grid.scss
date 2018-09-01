@@ -27,7 +27,9 @@
 
 .col-L3 {
     width: 25%;
+    padding: 0 40px;
 }
+
 
 .col-L4 {
     width: 33.33%;
@@ -40,6 +42,7 @@
 
 .col-L6 {
     width: 50%;
+    padding: 0 40px;
 }
 
 .col-L7 {
@@ -65,9 +68,10 @@
 
 .col-L12 {
     width: 100%;
+    padding: 0 40px;
 }
 
-@media (max-width:$large) {
+@media (max-width: 1200px) {
     .col-M0 {
         display: none;
     }
@@ -82,12 +86,14 @@
     }
     .col-M4 {
         width: 33.33%;
+        padding: 0 20px;
     }
     .col-M5 {
         width: 41.66%;
     }
     .col-M6 {
         width: 50%;
+        padding: 0 20px;
     }
     .col-M7 {
         width: 58.33%;
@@ -106,10 +112,12 @@
     }
     .col-M12 {
         width: 100% !important;
+        padding: 0 20px;
     }
 }
 
-@media (max-width:$small) {
+@media (max-width:800px) {
+
     .col-S0 {
         display: none;
     }
@@ -148,5 +156,8 @@
     }
     .col-S12 {
         width: 100% !important;
+        padding-left:0;
+        padding-right:0;
+        margin-bottom: 20px;
     }
 }

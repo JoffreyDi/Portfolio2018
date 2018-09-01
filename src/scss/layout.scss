@@ -1,1 +1,49 @@
+body {
+    background: url('../assets/logo-background.svg') center center no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
+.button-link {
+    padding: 20px 40px;
+    color: $white;
+    background: $black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 1.8rem;
+    border: none;
+    cursor:pointer;
+    transition: all 0.2s ease-in;
+    img {
+        height: 28px !important;
+        margin-right: 8px;
+    }
+    &:hover {
+        background: $blue-orchid;
+        transition: all 0.2s ease-out;
+    }
+    
+}
+
+.button-classic {
+    @extend .button-link;
+    padding: 20px 40px;
+    color: $white;
+    background: $black;
+    position: static;
+    font-size: 1.8rem;
+    border: none;
+    cursor:pointer;
+    transition: all 0.2s ease-in;
+    img {
+        height: 28px !important;
+        margin-right: 8px;
+    }
+    &:hover {
+        background: $blue-orchid;
+        transition: all 0.2s ease-out;
+    }
+    
+}

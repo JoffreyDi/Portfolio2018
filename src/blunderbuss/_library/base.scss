@@ -25,11 +25,11 @@ html {
 
 body {
   margin: 0;
-  background-color: $white;;
   color: $black;
   font-size:$font-size-base;
   font-family: $font-family-base;
   line-height: $line-height-base;
+  font-weight: $weight-light;
 }
 
 /* Links */
@@ -258,6 +258,12 @@ samp,
 kbd {
   white-space: pre-wrap;
   line-height: normal;
+}
+
+.extend {
+  max-width:100%;
+  width:100%;
+  height: auto;
 }
 
 .desktop, .display-block {

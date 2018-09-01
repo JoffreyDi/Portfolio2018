@@ -2,10 +2,13 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Scopecast from './views/Scopecast'
+import U2achtung from './views/U2achtung'
+import Arcance from './views/Arcance'
 
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -16,13 +19,16 @@ export default new Router({
       path: '/scopecast',
       name: 'scopecast',
       component: Scopecast
-      // route level code-splitting
-      // this generates a separate chunk (scopecast.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      // component: () => import(/* webpackChunkName: "scopecast" */ './views/Scopecast.vue'),
-      // component: function () {
-      //   import lalal from 'lalala'
-      // }
+    },
+    {
+      path: '/u2achtung',
+      name: 'u2achtung',
+      component: U2achtung
+    },
+    {
+      path: '/arcance-event',
+      name: 'arcance-event',
+      component: Arcance
     }
   ]
 })
