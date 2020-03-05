@@ -7,9 +7,7 @@
   <div class="dropdown-content">
     <ul>
       <li><router-link to="/">intro</router-link></li>
-      <li><router-link to="/scopecast">scopecast</router-link></li>
-      <li><router-link to="/u2achtung">U2achtung</router-link></li>
-      <li><router-link to="/arcance-event">arcance</router-link></li>
+      <li><router-link to="/blog">Projects</router-link></li>
 
     </ul>
   </div>
@@ -19,9 +17,7 @@
   <div class="nav-desktop">  
     <ul>
       <li><router-link to="/">intro</router-link></li>
-      <li><router-link to="/scopecast">scopecast</router-link></li>
-      <li><router-link to="/u2achtung">U2achtung</router-link></li>
-      <li><router-link to="/arcance-event">arcance</router-link></li>
+      <li><router-link to="/blog">Projects</router-link></li>
     </ul>
   </div>
   </nav>

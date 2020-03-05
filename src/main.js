@@ -19,5 +19,3 @@ Vue.use(VueScrollReveal, {
   distance: '10px',
   mobile: false
 });
-
-

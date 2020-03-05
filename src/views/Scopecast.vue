@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="scopecast page">
     <img src="../assets/logo.svg" class="main-logo" v-scroll-reveal.reset="{ delay: 800 }">
     <section class="banner" v-scroll-reveal.reset="{ delay: 200 }">
@@ -90,7 +90,7 @@
 
   </div>
 </template>
-
+-->
 
 <style scoped lang="scss">
   @import '../blunderbuss/_config/variables.scss';
@@ -110,7 +110,7 @@
      position: relative;
      margin: 8vh 0 0 40px;
      height: 75vh;
-     background: url('../assets/work/scopecast/scopecast-banner.jpg') top center no-repeat;
+    /* background: url('../assets/work/scopecast/scopecast-banner.jpg') center center no-repeat; */
      background-size: cover;
      .overlay {
          position: absolute;
@@ -119,7 +119,7 @@
          bottom: 0;
          left: 0;
          right: 0;
-         background: rgba(244, 66, 54, 0.6);
+         background: rgba(244, 66, 54, 0.8);
          p {
              color: $white;
              font-size: $font-size-tall;

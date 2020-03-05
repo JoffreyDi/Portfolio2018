@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="arcance page">
     <img src="../assets/logo.svg" class="main-logo" v-scroll-reveal.reset="{ delay: 800 }">
     <section class="banner" v-scroll-reveal.reset="{ delay: 200 }">
@@ -60,7 +60,7 @@
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L12 col-M12 col-S12" -scroll-reveal.reset="{ delay: 400 }">
         <img class="extend" src="../assets/work/arcance/arcance-prototyping.svg">
       </div>
     </section>
@@ -95,6 +95,7 @@
 
   </div>
 </template>
+-->
 
 
 <style scoped lang="scss">
