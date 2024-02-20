@@ -6,6 +6,45 @@
 
       <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
         <span class="blockquote">
+          CLEAR CHANNEL
+        </span>
+      </div>
+
+      <div class="col-L2 col-M12 col-S12" >
+      </div>
+
+      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
+        <p>En tant que Consultant chez IBM, j'ai aidé la marque pour la refonte graphique de ses outils et la recherche d'innovations dans le contexte de la pandémie de COVID </p>
+      </div>
+      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
+        <p>
+        Mon projet principal était la création d'un Design System pour aider les équipes à déployer plus vite les différents produits en développement. Que ce soit la coordination des différentes squad, la conception des composants dans Figma, la documentation des composants et la prise en charge du SCSS des composants react dans storybook. Il fallait aussi communiquer via une newsletter les nouveautés pour aider à l'adoption des composants. </p>
+      </div>
+    </div>
+
+    <section class="relative row spaceBetween no-top">
+      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+        Arcance Event - Freelance
+        <div class="ring-symbol">
+          <div class="ring-one"></div>
+          <div class="ring-two"></div>
+        </div>
+      </div>
+      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
+            <img src="../assets/work/arcance/homepage.png">
+            <img src="../assets/work/arcance/arcance-1.png">
+            <img src="../assets/work/arcance/arcance-2.png">
+      </div>
+    </section>
+
+
+    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
+
+
+    <div class="row spaceBetween relative">
+
+      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+        <span class="blockquote">
           ARCANCE EVENT : ORGANISATION DE SALONS, EVENTS ET EXPOSITIONS
         </span>
       </div>
@@ -38,12 +77,6 @@
             <img src="../assets/work/arcance/arcance-2.png">
       </div>
     </section>
-
-
-
-
-
-
 
 
     <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>

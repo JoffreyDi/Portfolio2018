@@ -26,13 +26,13 @@
         </div>
     <div class="col-L6 col-M12 bio-coln1">
     <p>
-    Actuellement <strong>Consultant Designer Senior chez IBM</strong>, j'accompagne les clients dans leur transormation digitale.
-    Principaux projets : Royal Canin, Orange, Alstom...
+    Actuellement <strong>Manager Designer chez IBM</strong>, j'accompagne les clients dans leur transormation digitale.
+    Principaux projets : Royal Canin, Clear Channel, Orange, Alstom...
     </p>
     </div>
     <div class="col-L6 col-M12 bio-coln2">
     <p>
-    Quand je ne fais pas du webdesign ou du code, je fais de la guitare avec mon groupe , je joue à des jeux vidéo et je vais au cinéma (j'écris sur <a href="https://twitter.com/_scopecast">@scopecast</a>)
+    Quand je ne fais pas du webdesign ou du code, je fais de la guitare, je joue à des jeux vidéo, je parle de pop culture en stream et je vais au cinéma !
     </p>
     </div>
     </section>
