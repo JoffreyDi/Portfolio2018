@@ -117,7 +117,6 @@
     position: relative;
     margin: 8vh 0 0 40px;
     height: 75vh;
-    background: url('../assets/work/arcance/arcance-banner.jpg') top center no-repeat;
     background-size: cover;
     .overlay {
       position: absolute;

@@ -36,7 +36,6 @@
             <img src="../assets/work/clearchannel/cc-01.png">
             <img src="../assets/work/clearchannel/cc-02.png">
             <img src="../assets/work/clearchannel/cc-03.png">
-            <img src="../assets/work/clearchannel/cc-04.png">
       </div>
     </section>
 
@@ -77,9 +76,9 @@
         </div>
       </div>
       <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
-            <img src="../assets/work/arcance/homepage.png">
-            <img src="../assets/work/arcance/arcance-1.png">
-            <img src="../assets/work/arcance/arcance-2.png">
+            <img src="../assets/work/arcance/arcance01.png">
+            <img src="../assets/work/arcance/arcance02.png">
+            <img src="../assets/work/arcance/arcance03.png">
       </div>
     </section>
 
@@ -125,9 +124,8 @@
       </div>
       <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
             <img src="../assets/work/ligatus/selfbooking.png">
-            <img src="../assets/work/ligatus/landingpage1.jpg">
-            <img  src="../assets/work/ligatus/landingpage2.jpg">
-            <img  src="../assets/work/ligatus/landingpage3.jpg">
+            <img src="../assets/work/ligatus/landingpage1.png">
+            <img  src="../assets/work/ligatus/landingpage2.png">
       </div>
     </section>
 
@@ -220,10 +218,9 @@
         </div>
       </div>
       <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
-            <img src="../assets/work/scopecast/scopecast-homepage.png">
-            <img src="../assets/work/scopecast/website.png">
-            <img src="../assets/work/scopecast/scopecast-05.png">
-            <img src="../assets/work/scopecast/scopecast-06.png">
+            <img src="../assets/work/scopecast/scopecast-01.png">
+            <img src="../assets/work/scopecast/scopecast-02.png">
+            <img src="../assets/work/scopecast/scopecast-03.png">
 
       </div>
     </section>
@@ -271,10 +268,11 @@
         </div>
       </div>
       <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
-            <img src="../assets/work/u2achtung/u2achtung-awards-poster1.jpg">
-            <img src="../assets/work/u2achtung/u2achtung-awards-poster2.jpg">
-            <img  src="../assets/work/u2achtung/u2achtung-posters.jpg">
-            <img  src="../assets/work/u2achtung/website.jpg">
+            <img src="../assets/work/u2achtung/U2achtung-01.png">
+            <img src="../assets/work/u2achtung/U2achtung-02.png">
+            <img src="../assets/work/u2achtung/U2achtung-03.png">
+            <img src="../assets/work/u2achtung/U2achtung-04.png">
+
       </div>
     </section>
 
@@ -324,7 +322,6 @@
     position: relative;
     margin: 8vh 0 0 40px;
     height: 75vh;
-    background: url('../assets/work/blog/blog-banner.png') top center no-repeat;
     background-size: cover;
     .overlay {
       position: absolute;
