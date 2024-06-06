@@ -2,35 +2,81 @@
   <div class="u2achtung page">
     <img src="../assets/logo.svg" class="main-logo" v-scroll-reveal.reset="{ delay: 800 }">
 
+
+
     <div class="row spaceBetween relative">
 
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L4 col-M12 col-S12">
         <span class="blockquote">
-          CLEAR CHANNEL
+          CLEAR CHANNEL : AFFICHAGES PUBLICITAIRES URBAINS
         </span>
       </div>
 
       <div class="col-L2 col-M12 col-S12" >
       </div>
 
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>En tant que Consultant chez IBM, j'ai aidé la marque pour la refonte graphique de ses outils et la recherche d'innovations dans le contexte de la pandémie de COVID </p>
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
+        <p>During the global economic downturn, Clear Channel wanted to reinvigorate the network's billboards and all its campaign management platforms, as well as add a self-booking offer for smaller businesses.</p>
       </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
         <p>
-        Mon projet principal était la création d'un Design System pour aider les équipes à déployer plus vite les différents produits en développement. Que ce soit la coordination des différentes squad, la conception des composants dans Figma, la documentation des composants et la prise en charge du SCSS des composants react dans storybook. Il fallait aussi communiquer via une newsletter les nouveautés pour aider à l'adoption des composants. </p>
+          During this 3-year assignment, I helped design prototypes for a large portfolio of applications. I was also in charge of designing the company's Design System (from scratch). Creation of components in Figma, documentation, technical specifications and integration in Storybook.</p>
       </div>
     </div>
 
     <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="title-section">
+        Clear Channel - Mission IBM
+        <div class="ring-symbol">
+          <div class="ring-one"></div>
+          <div class="ring-two"></div>
+        </div>
+      </div>
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
+            <img src="../assets/work/clearchannel/cc-01.png">
+            <img src="../assets/work/clearchannel/cc-02.png">
+            <img src="../assets/work/clearchannel/cc-03.png">
+            <img src="../assets/work/clearchannel/cc-04.png">
+      </div>
+    </section>
+
+
+
+    <div class="separator"></div>
+
+
+
+    <div class="row spaceBetween relative">
+
+      <div class="col-L4 col-M12 col-S12">
+        <span class="blockquote">
+          ARCANCE EVENT: ORGANIZING TRADE SHOWS, EVENTS AND EXHIBITIONS
+        </span>
+      </div>
+
+      <div class="col-L2 col-M12 col-S12" >
+      </div>
+
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
+        <p>Arcance Event wanted to optimize the user experience and design of its e-commerce and show management platform.</p>
+      </div>
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
+        <p>
+          The project's user experience had to be reviewed, as well as the user interface.<br /><br />
+          I organized a 3-day Design Sprint to gather employee requirements and begin a prototyping phase.<br />
+          Once the prototype had been tested and validated by the customer, I took charge of integrating the platform using my own CSS framework: Blunderbuss</p>
+      </div>
+    </div>
+
+    <section class="relative row spaceBetween no-top">
+      <div class="title-section">
         Arcance Event - Freelance
         <div class="ring-symbol">
           <div class="ring-one"></div>
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
             <img src="../assets/work/arcance/homepage.png">
             <img src="../assets/work/arcance/arcance-1.png">
             <img src="../assets/work/arcance/arcance-2.png">
@@ -38,52 +84,13 @@
     </section>
 
 
-    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
+
+    <div class="separator"></div>
 
 
     <div class="row spaceBetween relative">
 
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
-        <span class="blockquote">
-          ARCANCE EVENT : ORGANISATION DE SALONS, EVENTS ET EXPOSITIONS
-        </span>
-      </div>
-
-      <div class="col-L2 col-M12 col-S12" >
-      </div>
-
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>Arcance Event souhaitait optimiser l'experience utilisateur et le design de sa plateforme de e-commerce et de gestion de salon.</p>
-      </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>
-        Il fallait donc revoir l'éxperience utilisateur du projet mais aussi l'intérface utilisateur.<br /><br />
-        J'ai organisé un Design Sprint de 3 jours pour collecter les besoins des employés et commencer une phase de prototypage.
-        Une fois le prototype testé et validé par le client, je me suis occupé de l'intégration de la plateforme avec mon propre framework CSS : Blunderbuss</p>
-      </div>
-    </div>
-
-    <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
-        Arcance Event - Freelance
-        <div class="ring-symbol">
-          <div class="ring-one"></div>
-          <div class="ring-two"></div>
-        </div>
-      </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
-            <img src="../assets/work/arcance/homepage.png">
-            <img src="../assets/work/arcance/arcance-1.png">
-            <img src="../assets/work/arcance/arcance-2.png">
-      </div>
-    </section>
-
-
-    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
-
-    <div class="row spaceBetween relative">
-
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L4 col-M12 col-S12">
         <span class="blockquote">
          LIGATUS (2011 / 2018) | LIGATUS / SENIOR DESIGNER & FRONT-END DEV
         </span>
@@ -92,9 +99,9 @@
       <div class="col-L2 col-M12 col-S12">
       </div>
 
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
       </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
         <p>- User Experience / interface design for internal applications and integration with the front-end dev team, coordinate with the back-end one.<br />
         - Creation of the CSS Ligatus Framework for improve integration of all app<br />
         - Landing Pages’s Design and Development for customers (BMW, Volkswagen, Unicef, Plan France, EDF, Vespa...)<br />
@@ -108,14 +115,14 @@
   
 
     <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="title-section">
         Ligatus - Fulltime Job
         <div class="ring-symbol">
           <div class="ring-one"></div>
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
             <img src="../assets/work/ligatus/selfbooking.png">
             <img src="../assets/work/ligatus/landingpage1.jpg">
             <img  src="../assets/work/ligatus/landingpage2.jpg">
@@ -126,74 +133,39 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
+    <div class="separator"></div>
 
     <div class="row spaceBetween relative">
     
 
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L4 col-M12 col-S12">
         <span class="blockquote">
-          DESIGN SYSTEM POUR UN PROJET INTERNE (IBM)
+          DESIGN LANGUAGE FOR AN INTERNAL PROJECT (IBM)
         </span>
       </div>
 
       <div class="col-L2 col-M12 col-S12" >
       </div>
 
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>Pour une application interne, IBM avait besoin d'un outil interne pouvant être mise en place très rapidement.</p>
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
+        <p>For an internal application, IBM needed an internal tool that could be implemented very quickly.</p>
       </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>S'écoulant sur 2 semaines, ce projet consistait à développer très rapidement un site mobile accéssible pour tous les collaborateurs, afin de gagner du temps, j'ai crée un Design Language pour l'application et j'ai intégré (HTML/CSS/JS) tous les components et les fichiers de variables pour aider les front-end développeurs.
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
+        <p>Taking place over 1 month, this project consisted of developing a mobile site very quickly, accessible to all collaborators. To save time, I created a Design Language for the application and integrated (HTML/CSS/JS) all the components and variable files to help the front-end developers.
         </p>
       </div>
 
     </div>
 
     <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="title-section">
         IBM - FullTime Job
         <div class="ring-symbol">
           <div class="ring-one"></div>
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
             <img src="../assets/work/blog/staffgo-design-language.png">
             <img src="../assets/work/blog/staffgo-design-language2.png">
       </div>
@@ -213,41 +185,44 @@
 
 
 
-    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
+    <div class="separator"></div>
 
     <div class="row spaceBetween relative">
 
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L4 col-M12 col-S12">
         <span class="blockquote">
-          SCOPECAST EST UN SITE FRANCOPHONE SUR LA POP CULTURE
+          SCOPECAST - PODCAST, VIDEOS AND STREAMING
         </span>
       </div>
 
       <div class="col-L2 col-M12 col-S12" >
       </div>
 
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>4 potes fous de ciné, séries, animation et jeux vidéo partagent leur passion dans un podcast décontracté.</p>
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
+        <p>4 buddies crazy about movies, TV shows, animation and video games share their passion in a relaxed podcast.</p>
       </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>C'est en voulant partager notre passion pour la pop-culture que nous avions decidé d'acheter 3 micros pour créer notre émission. Une fois le premier numéro enregistré, il fallait créer un site, un logo... Créer notre marque !<br /><br/> Je suis parti du logo et de son code couleur pour créer le site. Il tourne sous Wordpress, avec un thème custom et le framework Materialize.
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
+        <p>It was in our desire to share our passion for pop-culture that we decided to buy 3 microphones to create our show. Once the first episode was recorded, we had to create a website, a logo, a site... Create our brand!
+        <br /><br/>Now, the team has grown and I've launched several live shows on Twitch, where I talk about music (with the VINYL show) and cinema (with Depeche POP). I love create assets for OBS and play with images, videos and sounds to create dynamics contents ! 
+        <br /><br />I also launch some design streams and explain how figma works to the viewers
         </p>
       </div>
 
     </div>
 
     <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="title-section">
         Scopecast - Side Project
         <div class="ring-symbol">
           <div class="ring-one"></div>
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
-                  <img src="../assets/work/scopecast/scopecast-homepage.png">
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
+            <img src="../assets/work/scopecast/scopecast-homepage.png">
             <img src="../assets/work/scopecast/website.png">
-
+            <img src="../assets/work/scopecast/scopecast-05.png">
+            <img src="../assets/work/scopecast/scopecast-06.png">
 
       </div>
     </section>
@@ -259,12 +234,12 @@
 
 
 
-    <div class="separator" v-scroll-reveal.reset="{ delay: 400 }"></div>
+    <div class="separator"></div>
 
     <div class="row spaceBetween relative">
 
 
-      <div class="col-L4 col-M12 col-S12" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L4 col-M12 col-S12">
         <span class="blockquote">
           U2ACHTUNG. PLUS GRANDE COMMUNAUTE FRANCOPHONE SUR LE GROUPE U2
         </span>
@@ -273,12 +248,12 @@
       <div class="col-L2 col-M12 col-S12" >
       </div>
 
-      <div class="col-L3 col-M12 col-S12 project-resume first-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>U2achtung est une association et un site internet crée par des fans de U2 pour les fans depuis 1999. Le projet est composé de plusieurs sites dont le site principal (actualités & infos), le club (espace payant pour accéder à du contenu exclusif, concours, bootlegs…) le forum (environ 150 000 membres inscrits) et des mini-sites evenementiels, souvent en partenariat avec Universal.</p>
+      <div class="col-L3 col-M12 col-S12 project-resume first-column">
+        <p>U2achtung is an association and a website created by U2 fans for fans since 1999. The project is made up of several sites, including the main site (news & info), the club (paying area for access to exclusive content, competitions, bootlegs...) the forum (around 150,000 registered members) and event-based mini-sites, often in partnership with Universal.</p>
       </div>
-      <div class="col-L3 col-M12 col-S12 project-resume second-column" v-scroll-reveal.reset="{ delay: 400 }">
-        <p>J’ai rejoins l’association en 2006 en tant que graphiste pour designer les TShirts de la tournée 2008 du groupe. Ensuite, j’ai été élu président de l’association en 2010 jusqu’en 2016. Mon rôle a été de rebooter le site de A à Z avec une équipe de redacteur, modérateurs et developpeurs. Cette nouvelle version a apporté un nouveau souffle à la communauté et la refonte de la base des données a rendu l'utilisation du back-end beaucoup plus intuitif.<br />
-        C'est durant les périodes de nouveaux albums et tournées que l'équipe était le plus mobilisée. Il fallait préparer les concours (et donc les visuels), des meetings entre fans après les concerts, des mini-sites évenementiels... Un travail très enrichissant pour ses parties techniques et visuelle et de gestion de projet en équipe.
+      <div class="col-L3 col-M12 col-S12 project-resume second-column">
+        <p>I joined the association in 2006 as a graphic designer to design the TShirts for the band's 2008 tour. I was then elected president of the association in 2010 until 2016. My role was to reboot the site from A to Z with a team of editors, moderators and developers. This new version breathed new life into the community, and the redesign of the database made the back-end much more intuitive to use.<br /><br />
+          It was during the periods of new albums and tours that the team was most mobilized. We had to prepare contests (and therefore visuals), fan meetings after concerts, event mini-sites... A very rewarding job in terms of the technical and visual aspects, as well as team project management.
         </p>
       </div>
 
@@ -287,14 +262,14 @@
   
 
     <section class="relative row spaceBetween no-top">
-      <div class="title-section" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="title-section">
         U2Achtung - Side Project
         <div class="ring-symbol">
           <div class="ring-one"></div>
           <div class="ring-two"></div>
         </div>
       </div>
-      <div class="col-L12 col-M12 col-S12 scrollmenu" v-scroll-reveal.reset="{ delay: 400 }">
+      <div class="col-L12 col-M12 col-S12 scrollmenu">
             <img src="../assets/work/u2achtung/u2achtung-awards-poster1.jpg">
             <img src="../assets/work/u2achtung/u2achtung-awards-poster2.jpg">
             <img  src="../assets/work/u2achtung/u2achtung-posters.jpg">
