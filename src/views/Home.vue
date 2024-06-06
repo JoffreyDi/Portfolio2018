@@ -26,13 +26,12 @@
         </div>
     <div class="col-L6 col-M12 bio-coln1">
     <p>
-    Actuellement <strong>Manager Designer chez IBM</strong>, j'accompagne les clients dans leur transormation digitale.
-    Principaux projets : Royal Canin, Clear Channel, Orange, Alstom...
+    Actuellement <strong>Manager Designer chez IBM</strong>, j'accompagne les clients dans leur transormation digitale.<br />
     </p>
     </div>
     <div class="col-L6 col-M12 bio-coln2">
     <p>
-    Quand je ne fais pas du webdesign ou du code, je fais de la guitare, je joue à des jeux vidéo, je parle de pop culture en stream et je vais au cinéma !
+    Quand je ne fais pas du webdesign ou du code, je fais de la guitare avec mon groupe , je joue à des jeux vidéo et je vais au cinéma. Je fais aussi du streaming et je crée des émissions sur la pop-culture !
     </p>
     </div>
     </section>
@@ -43,7 +42,7 @@
       <img src="../assets/twitter.svg">
       </a>
       </span>
-    <span><a href="https://www.joffreyd.com/joffreydieudonatnew.pdf" target=""_blank>Download my CV</a></span>
+    <span><a href="https://www.joffreyd.com/joffreydieudonatnew.pdf" target="_blank">Download my CV</a></span>
     <span>contact : joffreydi at gmail.com</span>
   </div>
 
